@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -150px;
+}
+
+.buffer {
+    height: 150px;
+}
+
+div.product {
+    float: left;
+    width: 33%;
+}
+
+footer {
+    border: 1px solid red;
+    clear: both;
+    height: 150px;
+    padding: 50px 0px 0px 0px;
+}
