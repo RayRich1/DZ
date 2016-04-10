@@ -1,0 +1,35 @@
+.productname {
+    font-size: 2em;
+    color: gray;
+    margin: 0 auto;
+}
+
+.price {
+    font-size: 3em;
+    color: green;
+}
+
+button {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+b {
+   font-weight: bold; 
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+
